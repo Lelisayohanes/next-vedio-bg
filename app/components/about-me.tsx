@@ -38,25 +38,20 @@ const ProfilePage = () => {
                                     ></div>
                                     <div className="relative z-10 ">
                                         <SheetDescription className="h-[600py]">
-                                            <p className="text-gray-700 ">
-                                                Hello! I'm John Doe, a software developer with a passion for building web applications. I specialize in front-end development and have experience with React, Tailwind CSS, and TypeScript.
+                                            <p className="text-gray-700">
+                                                Hello! I'm Hana, a passionate makeup artist with a flair for transforming visions into stunning reality. With a deep love for beauty and artistry, I specialize in creating unique looks that enhance natural features and boost confidence.
                                             </p>
                                             <p className="mt-2 text-gray-700">
-                                                In my free time, I enjoy hiking, photography, and exploring new technologies.
+                                                My creativity shines through in every brushstroke, whether it’s a glamorous evening look or a subtle daytime glow. I believe that makeup is not just about application; it’s a powerful form of self-expression that allows individuals to showcase their personality.
                                             </p>
-                                            <p className="text-gray-700 ">
-                                                Hello! I'm John Doe, a software developer with a passion for building web applications. I specialize in front-end development and have experience with React, Tailwind CSS, and TypeScript.
-                                            </p>
-                                            <p className="mt-2 text-gray-700">
-                                                In my free time, I enjoy hiking, photography, and exploring new technologies.
-                                            </p>
-                                            <p className="text-gray-700 ">
-                                                Hello! I'm John Doe, a software developer with a passion for building web applications. I specialize in front-end development and have experience with React, Tailwind CSS, and TypeScript.
+                                            <p className="text-gray-700">
+                                                Outside of my artistry, I enjoy exploring the latest beauty trends, experimenting with new products, and sharing my knowledge with others. I find inspiration in everything around me, from nature to fashion, and I strive to infuse that inspiration into my work.
                                             </p>
                                             <p className="mt-2 text-gray-700">
-                                                In my free time, I enjoy hiking, photography, and exploring new technologies.
+                                                Join me on this creative journey as I continue to bring beauty to life, one face at a time!
                                             </p>
                                         </SheetDescription>
+
                                         <div className="mt-8">
                                             <Link href="/" className="text-blue-500 hover:underline">Call me</Link>
                                         </div>
