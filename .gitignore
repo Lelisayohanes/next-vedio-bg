@@ -34,3 +34,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# next-video
+y/*
+!y/*.json
+!y/*.js
+!y/*.ts
+public/_next-video
+
+# next-video
+public/video/*
+!public/video/*.json
+!public/video/*.js
+!public/video/*.ts
+public/_next-video
